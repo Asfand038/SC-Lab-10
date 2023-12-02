@@ -1,6 +1,7 @@
 package expressivo;
 import java.util.Objects;
 
+
 public class NumberExpression implements Expression {
     private final double value;
 

@@ -12,7 +12,6 @@ public class AdditionExpression implements Expression {
     }
 
 
-
 @Override
 public String toString() {
     return "(" + left.toString() + " + " + right.toString() + ")";

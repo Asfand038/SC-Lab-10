@@ -3,6 +3,7 @@
  */
 package expressivo;
 
+
 /**
  * An immutable data type representing a polynomial expression of:
  *   + and *
