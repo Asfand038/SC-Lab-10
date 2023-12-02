@@ -61,3 +61,4 @@ public class AdditionExpressionTest {
         assertEquals(additionExpression2.hashCode(), additionExpression4.hashCode());
     }
 }
+
