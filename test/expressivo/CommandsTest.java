@@ -24,3 +24,4 @@ public class CommandsTest {
     // TODO tests for Commands.differentiate() and Commands.simplify()
     
 }
+
